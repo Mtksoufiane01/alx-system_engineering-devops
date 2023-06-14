@@ -3,5 +3,9 @@
 echo "hello $USER"
 =======
 #!/bin/bash
+<<<<<<< HEAD
 echo "hello $USER"
 >>>>>>> 52f4b658ed9030723e3120a2da2177a41abec5b1
+=======
+echo "hello $user"
+>>>>>>> 057ceb7058663283dcdb4873896d091b8bfc228d
